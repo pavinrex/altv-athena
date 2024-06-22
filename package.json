@@ -53,7 +53,7 @@
         "elliptic": "6.5.4",
         "njwt": "^2.0.0",
         "sjcl": "1.0.8",
-        "sockjs": "0.3.21",
+        "sockjs": "0.3.24",
         "sockjs-client": "1.5.2"
     },
     "prettier": {
